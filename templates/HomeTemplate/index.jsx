@@ -142,7 +142,7 @@ const Section03 = () => (
             />
             <a
               className="mb-0-75 text-gray-900 font-main font-bold lg:text-2xl text-xl"
-              href="mailto:jim@jimree.no"
+              href="mailto:jim@jrdesign.no"
             >
               Jim@jimree.no
             </a>
